@@ -252,3 +252,5 @@ C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\refint\Tp3EFcoreR
 C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\Tp3EFcoreRelations.pdb
 C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\Tp3EFcoreRelations.genruntimeconfig.cache
 C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\ref\Tp3EFcoreRelations.dll
+C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\Tp3EFcoreRelations.sourcelink.json
+C:\Users\user\source\repos\Tp3EFcoreRelations\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
